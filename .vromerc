@@ -1,1 +1,1 @@
-set disablesites=mail.google.com, reader.google.com, www.gqueues.com, tritlo.github.io
+set disablesites=mail.google.com, reader.google.com, www.gqueues.com, tritlo.github.io, localhost, *.nitrous.io
